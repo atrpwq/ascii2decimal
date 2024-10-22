@@ -10,9 +10,7 @@ void main(int argc, char **argv){
 			}
 			count++;
 		}
-		else{
-			printf("\n");
-			break;
-		}
+		printf("\n");
+		break;
 	}
 }
