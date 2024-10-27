@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-enum asciitable{NUL=0,DEL=127};
 void main(int argc, char **argv){
 	int count=1;
 	while(1){
